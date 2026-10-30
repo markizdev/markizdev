@@ -18,6 +18,16 @@
   <a href="https://markiz-land.pages.dev"><img src="https://img.shields.io/badge/Играть_в_MARKIZ_LAND-0070D1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Играть в MARKIZ LAND"></a>
 </p>
 
+## 🖼 MARKIZ PS5 — как это выглядит
+
+**Компьютер:** главный экран с вкладками, плитками, карточками (система, погода, диски, время в играх, звук и питание) и нижняя панель.
+
+<img src="screens/pc_home.jpg" alt="Главный экран компьютера в стиле консоли" width="100%">
+
+**Планшет:** синие обои с волнами и цветные плитки-иконки.
+
+<p align="center"><img src="screens/tablet.jpg" alt="Планшет: синие обои и цветные плитки" width="320"></p>
+
 ## 🛠 На чём пишу
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
