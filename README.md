@@ -29,7 +29,8 @@
 <p align="center"><img src="screens/tablet.jpg" alt="Планшет: синие обои и цветные плитки" width="320"></p>
 
 <p align="center">
-  <a href="https://github.com/markizdev/markiz-ps5"><img src="https://img.shields.io/badge/Скачать_MARKIZ_PS5-0070D1?style=for-the-badge&logo=github&logoColor=white" alt="Скачать MARKIZ PS5"></a>
+  <a href="https://github.com/markizdev/markiz-ps5/releases/latest"><img src="https://img.shields.io/badge/Скачать_MARKIZ_PS5-0070D1?style=for-the-badge&logo=github&logoColor=white" alt="Скачать MARKIZ PS5"></a>
+  <a href="https://github.com/markizdev/markiz-ps5/releases"><img src="https://img.shields.io/github/downloads/markizdev/markiz-ps5/total?style=for-the-badge&label=скачали&color=0b2a6b" alt="Сколько раз скачали"></a>
 </p>
 
 ## 🛠 На чём пишу
