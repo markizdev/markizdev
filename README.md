@@ -12,7 +12,7 @@
 |---|---|
 | [**MARKIZ LAND**](https://markiz-land.pages.dev) | 3D-раннер с котом Маркизом прямо в браузере, ставится и как приложение |
 | **MARKIZ LAND бот** | Telegram-бот игры с профилем игрока |
-| **MARKIZ PS5** | Оформление Windows и Android в стиле консоли: живые обои, главный экран с играми, карточки, нижняя панель. Скоро будет в открытом доступе |
+| [**MARKIZ PS5**](https://github.com/markizdev/markiz-ps5) | Оформление Windows и Android в стиле консоли: живые обои, главный экран с играми, карточки, нижняя панель. Ставится в один клик |
 
 <p align="center">
   <a href="https://markiz-land.pages.dev"><img src="https://img.shields.io/badge/Играть_в_MARKIZ_LAND-0070D1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Играть в MARKIZ LAND"></a>
@@ -27,6 +27,10 @@
 **Планшет:** синие обои с волнами и цветные плитки-иконки.
 
 <p align="center"><img src="screens/tablet.jpg" alt="Планшет: синие обои и цветные плитки" width="320"></p>
+
+<p align="center">
+  <a href="https://github.com/markizdev/markiz-ps5"><img src="https://img.shields.io/badge/Скачать_MARKIZ_PS5-0070D1?style=for-the-badge&logo=github&logoColor=white" alt="Скачать MARKIZ PS5"></a>
+</p>
 
 ## 🛠 На чём пишу
 
